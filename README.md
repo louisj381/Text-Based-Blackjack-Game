@@ -15,5 +15,5 @@ Play standard blackjack against an automated dealer, hit or stand to win your vi
 ## Example Game
 ![screenshot](demo/example_game_snip.png)
 
-## inspiration
+## Inspiration
 This was a milestone project I completed on my way to completing python bootcamp course on Udemy
