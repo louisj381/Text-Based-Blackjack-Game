@@ -6,8 +6,14 @@ Play standard blackjack against an automated dealer, hit or stand to win your vi
 * clone repo
 * run main.py with Python (preferably 3) in your cmd window or favorite IDE!
 
-# Once you're set up
+## Once you're set up
 * set your bet limit
 * place a bet
 * decide whether to hit or stand
 * win it all!
+
+## Example Game
+![screenshot](demo/example_game_snip.png)
+
+## inspiration
+This was a milestone project I completed on my way to completing python bootcamp course on Udemy
